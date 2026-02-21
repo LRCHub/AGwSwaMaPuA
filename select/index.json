@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "イカサマダンス",
+  "base_artist": "Mafumafu",
+  "createdAt": "2026-02-21T10:38:26.859361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イカサマダンス",
+      "artist": "AtRバンド×うらたぬき",
+      "has_synced": true,
+      "path": "select/01_イカサマダンス_AtRバンド×うらたぬき.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イカサマダンス",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/02_イカサマダンス_Mafumafu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イカサマダンス",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_イカサマダンス_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "イカサマダンス",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_02_イカサマダンス_まふまふ.txt"
+    }
+  ]
+}
